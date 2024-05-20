@@ -29,7 +29,7 @@
           C. Date of Birth<br />
           D. Telephone<br />
           E. country<br />
-          Create a submit button or submit input to submit the form
+          Create a submit button or submit input to submit the form </p>
       <p>2. Create a table that shows some typical foods cooked by 5 African countries like below</p>
       <p>3. Create a div that contains 3 pictures</p>
       <p>4. Create a div that has 2 paragraphs with 3 span elements</p>
