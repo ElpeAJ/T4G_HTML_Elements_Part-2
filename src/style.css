@@ -30,11 +30,12 @@
   #challenge {
     margin-top: 15px;
     border: 2px solid brown;
+    padding: 0 10px;
   }
   
   .challenge {
-    font-size: 80px;
-    color: aquamarine;
+    font-size: 50px;
+    color: blueviolet;
   }
   
   .prompt {
