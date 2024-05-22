@@ -19,5 +19,6 @@
       <p>Create div and span elements</p>
       <h3>Task 8</h3>
       <p>Talk about SEMANTICS. Briefly touch on sections, nav, article etc</p>
+        <p>Check out W3Schools and familiarise yourself with linking. <button><a target="_blank" href="https://www.w3schools.com/html/html_links.asp">Go to W3Schools</a></a></button></p>
       </div>
     </body>
