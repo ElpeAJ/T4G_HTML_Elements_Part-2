@@ -52,7 +52,9 @@
         <h3 class="challenge"><u>Challenge</u></h3>
         <p>
           Update the 4 web page website you create in the previous assignment to
-          look like <video controls src="images/homework-redo.mp4">this</video>
+          look like <a href="images/homework-redo.mp4" target="_blank">this</a>
+          <!-- <video controls src="images/homework-redo.mp4"></video> -->
+          <!-- <video id="videoID" autoplay loop><source src="images/homework-redo.mp4">Your browser does not support the video tag.</video> -->
         </p>
         <!-- <p>
           1. Create a div with a simple form that takes the users<br />
@@ -158,5 +160,11 @@
       //   const name = prompt("Hi there what is your name? ");
     </script> -->
     <!-- <script src="src/index.js"></script> -->
+    <script>
+      let video = document.getElementById("videoID");
+      video.setAttribute("playsinline", "");
+      video.setAttribute("muted", "");
+      video.play();
+    </script>
   </body>
 </html>
